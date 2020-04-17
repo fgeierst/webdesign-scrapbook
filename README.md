@@ -1,4 +1,4 @@
-# Sammlung
+# Webdesign Scrapbook
 
 - Websites
 - Fonts
